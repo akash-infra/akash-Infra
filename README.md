@@ -51,7 +51,7 @@
 
 ### 📅 Learning Log
 I am maintaining a daily log of progress here 👇  
-🔗 **[Roadmap & Daily Logs](https://github.com/akash-infra/Study-Log)** *(COMING SOON)*
+🔗 **[Roadmap & Daily Logs](https://github.com/akash-infra/Study-Log)** 
 
 ---
 
